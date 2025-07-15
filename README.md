@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **.NET projects**
 - 🌱 I’m currently learning **Blazor, ASP.NET Core, SQL Server**
 - 💬 Ask me about **C#, ADO.NET, ASP.NET, MVC, Web API**
-- 📫 Reach me at: `your.email@example.com`
+- 📫 Reach me at: `sujitbhosale1804@gmail.com.com`
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ---

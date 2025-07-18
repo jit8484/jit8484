@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Blazor, ASP.NET Core, SQL Server**
 - 💬 Ask me about **C#, ADO.NET, ASP.NET, MVC, Web API**
 - 📫 Reach me at: `sujitbhosale1804@gmail.com.com`
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 🌐 Portfolio: [yourportfolio.com.com](https://yourportfolio.com)
 
 ---
 
